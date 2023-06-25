@@ -1,5 +1,6 @@
 # manifold_count_holders
- Counts number of shareholders (traders) of each answer (with > 0 shares) (with YES, NO separately counted) supporting different market types (free response, multiple choice, binary)
+ Counts number of shareholders (traders) of each answer (with > 0 shares) (with YES, NO separately counted) supporting different market types (free response, multiple choice, binary).
+ 
  Modify the API key (edit your profile to get one) and the slug name (the short name at the end of the market url) in the config section.
 
 # Examples
