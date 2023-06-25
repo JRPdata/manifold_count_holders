@@ -5,6 +5,7 @@
 # Examples
 
 ## MULTIPLE-CHOICE
+```
 $ python3 manifold_count_traders.py 
 Number of unique traders holding at least one share for each answer in the market (what-is-the-primary-value-users-get):
 
@@ -14,15 +15,19 @@ YES |  NO   -   CHOICE
 3   |   0   -   Research, analysis, insights
 2   |   0   -   Upskilling
 5   |   0   -   Speculation (gamification)
+```
 
 ## BINARY
+```
 $ python3 manifold_count_traders.py 
 Number of unique traders holding at least one share for each answer in the market (1-will-vladimir-putin-be-president):
 
 YES:  788
 NO:   398
+```
 
 ## FREE-RESPONSE
+```
 $ python3 manifold_count_traders.py 
 Number of unique traders holding at least one share for each answer in the market (what-will-the-league-above-diamond):
 
@@ -114,3 +119,4 @@ Number of unique traders holding at least one share for each answer in the marke
 2  -  Challenger
 2  -  Legendary
 3  -  Mystic
+```
